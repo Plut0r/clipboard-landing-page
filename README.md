@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Git solution repo]()
-- Live Site URL: [Netlify live repo]()
+- Solution URL: [Git solution repo](https://github.com/Plut0r/clipboard-landing-page)
+- Live Site URL: [Netlify live repo](https://clipboard-landing-page-plut0r.netlify.app/)
 
 
 ### Built with
